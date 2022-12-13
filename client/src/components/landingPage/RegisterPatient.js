@@ -487,7 +487,7 @@ export default function Register(props) {
                             }
                           }}
                         >
-                          <img src={minus_logo} alt="" className="h-8 w-8" />
+                          
                         </div>
                       </div>
                     );
@@ -495,7 +495,6 @@ export default function Register(props) {
                 </div>
 
                 <div onClick={addDisease} className="col-span-1">
-                  <img src={plus_logo} alt="" className="h-8 w-8" />
                 </div>
               </div>
             </div>
